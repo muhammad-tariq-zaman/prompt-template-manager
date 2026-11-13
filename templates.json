@@ -1,0 +1,5 @@
+[
+  {"id": "password-reset-email", "title": "Draft a polite password reset email", "tags": ["email", "password"], "prompt": "Draft a short, polite email telling a user their password was reset, what they need to do next, and who to contact if they did not request it."},
+  {"id": "ticket-summary", "title": "Summarise a support ticket in three lines", "tags": ["ticket", "summary"], "prompt": "Summarise the support ticket below in three lines: what the user reported, what has been tried so far, and the next step."},
+  {"id": "meeting-notes", "title": "Turn meeting notes into action items", "tags": ["meeting", "notes"], "prompt": "Turn the meeting notes below into a list of action items, each with an owner and a due date where stated."}
+]
